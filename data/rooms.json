@@ -1,6 +1,6 @@
 [
   {
-    "$id": "1",
+    "id": "1",
     "user_id": "1",
     "name": "Grand Conference Hall",
     "description": "A spacious room with modern amenities, suitable for large conferences and events.",
@@ -14,7 +14,7 @@
     "image": "room-1.jpg"
   },
   {
-    "$id": "2",
+    "id": "2",
     "user_id": "1",
     "name": "Executive Meeting Room",
     "description": "Ideal for executive meetings and small group discussions.",
@@ -28,7 +28,7 @@
     "image": "room-2.jpg"
   },
   {
-    "$id": "3",
+    "id": "3",
     "user_id": "1",
     "name": "Creative Hub",
     "description": "A vibrant space designed for brainstorming sessions and creative workshops.",
@@ -42,7 +42,7 @@
     "image": "room-3.jpg"
   },
   {
-    "$id": "4",
+    "id": "4",
     "user_id": "2",
     "name": "Training Room",
     "description": "Equipped with the latest technology, perfect for training sessions and workshops.",
@@ -56,7 +56,7 @@
     "image": "room-4.jpg"
   },
   {
-    "$id": "5",
+    "id": "5",
     "user_id": "2",
     "name": "Quiet Meeting Room",
     "description": "A small, quiet space ideal for private meetings and interviews.",
