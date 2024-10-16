@@ -1,7 +1,7 @@
 import dayjs from "dayjs";
 import Link from "next/link";
 import React from "react";
-import CancelBookingButton from "./cancelBookingButton";
+import CancelBookingButton from "./CancelBookingButton";
 
 export default function BookRoomCard({ booking }) {
   const { room_id: room } = booking;
